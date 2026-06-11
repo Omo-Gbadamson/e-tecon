@@ -1,6 +1,6 @@
-#E-tecon as an App
+# E-tecon as an App
 
-##Introduction
+## Introduction
 > E-tecon is an application that helps to optimize job opportunities for teachers that are seeking employment and Schools that need to select from the pool of available qualified teachers
 
 ##Stack Used
